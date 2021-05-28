@@ -33,12 +33,12 @@ Library/Books App working with Brian Cabacungan
 
 ## 3 Week Plan
 * Week 1
-    * 1. Get familiar with Google Books API
-    * 2. Get familiar with NYT APIs
-    * 3. Draw up how the app will look like
+    * Get familiar with Google Books API
+    * Get familiar with NYT APIs
+    * Draw up how the app will look like
 * Week 2
-    * 1. Create React app
-    * 2. Build UX/UI
+    * Create React app
+    * Build UX/UI
 * Week 3
-    * 1. Test React app
-    * 2. Debugging
+    * Test React app
+    * Debugging
